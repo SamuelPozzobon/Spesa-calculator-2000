@@ -1,5 +1,6 @@
 # Spesa calculator 2000
-![Alt text](image.png?raw=true "Title"
+![Alt text](image.png?raw=true "Title")
+
 Un semplice programma fatto in Visual Basic per calcolare la spesa dell'Esselunga.
 
 ## Features
