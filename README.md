@@ -1,4 +1,5 @@
 # Spesa calculator 2000
+![alt text](https://github.com/ArchonKlaus/Spesa-calculator-2000/image.png)
 Un semplice programma fatto in Visual Basic per calcolare la spesa dell'Esselunga.
 
 ## Features
