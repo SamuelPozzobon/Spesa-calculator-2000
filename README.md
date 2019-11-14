@@ -6,6 +6,6 @@ L'Esselunga market 9000 ha creato un programma per calcolare la sua spesa,
 
 ma ha anche 2 features in più:
 
-- Listino prodotti in evidenza
+- Listino prodotti in evidenza (NUOVO: UI)
 
 - Generatore di numeri random
