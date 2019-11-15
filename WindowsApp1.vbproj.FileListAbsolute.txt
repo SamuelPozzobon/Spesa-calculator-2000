@@ -11,3 +11,4 @@ C:\Users\Samuel\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
 C:\Users\Samuel\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
 C:\Users\Samuel\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
 C:\Users\Samuel\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form2.resources
+C:\Users\Samuel\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form3.resources
