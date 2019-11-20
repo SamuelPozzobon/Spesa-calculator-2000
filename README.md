@@ -13,3 +13,5 @@ ma ha anche 3 features in più:
 - Calcolo valore dei tuoi organi
 
 - Generatore di numeri random
+
+- Offerte shock del giorno
