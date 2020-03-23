@@ -27,3 +27,4 @@ C:\Users\visualstudio.FALCONE\Desktop\Samuel Pozzobon\WindowsApp1\WindowsApp1\ob
 C:\Users\visualstudio.FALCONE\Desktop\Samuel Pozzobon\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.Cache
 C:\Users\Samuel\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form4.resources
 C:\Users\Samuel\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form5.resources
+C:\Users\Samuel\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form6.resources
